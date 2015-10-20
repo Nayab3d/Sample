@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<books>
-    <course  number="1">
+<world>
+    <country  number="1">
       <name>INDIA</name>
-      <page>IND</page>
-    </course>
-    <course  number="2">
+      <ID>IND</ID>
+    </country>
+    <country  number="2">
       <name>AUSTRALIA</name>
-      <page>AUS</page>
-    </course>
-    <course  number="3">
+      <ID>AUS</ID>
+    </country>
+    <country  number="3">
       <name>PAKISTAN</name>
-      <page>PAK</page>
-    </course>
-    <course  number="4">
+      <ID>PAK</ID>
+    </country>
+    <country  number="4">
       <name>BANGLADESH</name>
-      <page>BAN</page>
-    </course>
-    <course  number="5">
+      <ID>BAN</ID>
+    </country>
+    <country  number="5">
       <name>SRILANKA</name>
-      <page>SL</page>
-    </course>
-    <course  number="6">
+      <ID>SL</ID>
+    </country>
+    <country  number="6">
       <name>CHINA</name>
-      <page>CHI</page>
-    </course>
-    <course  number="7">
+      <ID>CHI</ID>
+    </country>
+    <country  number="7">
       <name>JAPAN</name>
-      <page>JP</page>
-    </course>
-    <course  number="8">
+      <ID>JP</ID>
+    </country>
+    <country  number="8">
       <name>NEWZEALAND</name>
-      <page>NZ</page>
-    </course>
+      <ID>NZ</ID>
+    </country>
     
-</books>
+</world>
