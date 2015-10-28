@@ -1,36 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<world>
-    <country  number="1">
-      <name>INDIA</name>
-      <ID>IND</ID>
-    </country>
-    <country  number="2">
-      <name>AUSTRALIA</name>
-      <ID>AUS</ID>
-    </country>
-    <country  number="3">
-      <name>PAKISTAN</name>
-      <ID>PAK</ID>
-    </country>
-    <country  number="4">
-      <name>BANGLADESH</name>
-      <ID>BAN</ID>
-    </country>
-    <country  number="5">
-      <name>SRILANKA</name>
-      <ID>SL</ID>
-    </country>
-    <country  number="6">
-      <name>CHINA</name>
-      <ID>CHI</ID>
-    </country>
-    <country  number="7">
-      <name>JAPAN</name>
-      <ID>JP</ID>
-    </country>
-    <country  number="8">
-      <name>NEWZEALAND</name>
-      <ID>NZ</ID>
-    </country>
-    
-</world>
+<GeneralTab>
+<Name>achuth</Name>
+<Type>string</Type>
+<Contains>general details</Contains>
+<Created By>achuth</Created By>
+<Created Date>27/09/2015</Created By>
+<Modified By>achuth</Modified By>
+<Modified Date>27/10/2015</Modified Date>
+</GeneralTab>
+ 
